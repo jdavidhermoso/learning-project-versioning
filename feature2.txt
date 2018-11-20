@@ -1,1 +1,1 @@
-Feature2: Bug fixed
+Feature 2 refactored
