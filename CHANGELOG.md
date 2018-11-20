@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/jdavidhermoso/learning-project-versioning/compare/v0.1.0...v1.0.0) (2018-11-20)
+
+
+### Bug Fixes
+
+* **Feature2:** Bug in feature 2 fixed ([e6c0e58](https://github.com/jdavidhermoso/learning-project-versioning/commit/e6c0e58))
+
+
+### Features
+
+* **Feature3:** Third feature ([f3c5704](https://github.com/jdavidhermoso/learning-project-versioning/commit/f3c5704))
+
+
+
 <a name="0.1.0"></a>
 # [0.1.0](https://github.com/jdavidhermoso/learning-project-versioning/compare/v0.0.0...v0.1.0) (2018-11-20)
 
