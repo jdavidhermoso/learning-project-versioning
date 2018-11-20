@@ -1,6 +1,6 @@
 {
   "name": "versioning-project",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Playing with commitizen and standard-version to learn how to version an app releases",
   "main": "index.js",
   "scripts": {
