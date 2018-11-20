@@ -1,1 +1,1 @@
-Major change in feature1
+Feature1: Bug fixed
