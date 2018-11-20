@@ -4,6 +4,7 @@
   "description": "Playing with commitizen and standard-version to learn how to version an app releases",
   "main": "index.js",
   "scripts": {
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jdavidhermoso",
